@@ -1,5 +1,5 @@
 # Official Project Progress Report
-## Development and Completion of the Fifth Version of the Avisna/Lume Language
+## Development and Completion of the Fifth Version of the Avisna Language
 
 **Report Date:** September 13, 2026  
 **Subject:** Report of activities performed, errors resolved, identified limitations, and work plan for the next day
@@ -428,7 +428,7 @@ Currently, the necessary foundation for continuing Geometry development and movi
 
 ## 1. 已完成工作的说明
 
-在 **Avisna/Lume** 语言第五版开发的这一阶段，主要重点是在语言核心中开发 Native 几何功能，并协调编译器的各个层。
+在 **Avisna** 语言第五版开发的这一阶段，主要重点是在语言核心中开发 Native 几何功能，并协调编译器的各个层。
 
 活动在多个层面进行：
 
